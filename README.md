@@ -73,14 +73,14 @@ Hi! I'm **Mustabshira Nasir**, a 6th-semester Computer Science student at **COMS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mustabshiratech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustabshiratech&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mustabshiranasir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustabshiranasir&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mustabshiratech&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=mustabshiranasir&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -93,7 +93,7 @@ I'm actively looking for **remote internship opportunities** in software develop
 <div align="center">
 
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-fa23--bcs--063@cuiatk.edu.pk-1B3A6B?style=for-the-badge)](mailto:fa23-bcs-063@cuiatk.edu.pk)
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-mustabshiratech.github.io-2E75B6?style=for-the-badge)](https://mustabshiratech.github.io/portfolio-website)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-mustabshiranasir.github.io-2E75B6?style=for-the-badge)](https://mustabshiranasir.github.io/portfolio-website)
 
 </div>
 
