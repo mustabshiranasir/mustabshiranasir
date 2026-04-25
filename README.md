@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,100:2E75B6&height=200&section=header&text=Mustabshira%20Nasir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,100:2E75B6&height=200&section=header&text=Mustabshira%20Nasir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Software%20%26%20Mobile%20Developer%20%7C%20PAC%20Kamra%20Intern&descAlignY=58&descSize=16" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-2E75B6?style=for-the-badge)](https://mustabshiranasir.github.io/portfolio-website)
-[![Email](https://img.shields.io/badge/📧_Email-fa23--bcs--063@cuiatk.edu.pk-1B3A6B?style=for-the-badge)](mailto:fa23-bcs-063@cuiatk.edu.pk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/✉_Email-Contact_Me-1B3A6B?style=for-the-badge)](mailto:fa23-bcs-063@cuiatk.edu.pk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustabshira)
 [![Open to Work](https://img.shields.io/badge/🎯_Open_to-Remote_Internships-22c55e?style=for-the-badge)](mailto:fa23-bcs-063@cuiatk.edu.pk)
 
 </div>
@@ -13,12 +13,14 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Mustabshira Nasir**, a 6th-semester Computer Science student at **COMSATS University Islamabad, Attock Campus**. I love building things — from relational databases to mobile apps — and I'm always learning something new.
+Hi! I'm **Mustabshira Nasir**, a 6th-semester Computer Science student at **COMSATS University Islamabad, Attock Campus**. I love building things — from relational databases to full-stack mobile apps.
 
 - 🏗️ **Currently building:** Smart Campus Canteen App *(React Native + Node.js + MongoDB)*
-- 🎓 **Studying:** Computer Science — 6th Semester
-- 🔍 **Looking for:** Remote internship opportunities
-- 💡 **Interests:** Full-stack development, mobile apps, database design, UI/UX
+- 🏢 **Interned at:** Pakistan Aeronautical Complex (PAC), Kamra — Software / IT Division *(July–Aug 2025)*
+- 🎓 **Degree:** BS Computer Science — 6th Semester
+- 📍 **Location:** Fatehjang, Attock, Pakistan
+- 🌐 **Languages:** Urdu (Native) · English (Proficient)
+- 🔍 **Looking for:** 6–8 week remote internship · Summer 2025
 
 ---
 
@@ -27,6 +29,8 @@ Hi! I'm **Mustabshira Nasir**, a 6th-semester Computer Science student at **COMS
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -44,28 +48,59 @@ Hi! I'm **Mustabshira Nasir**, a 6th-semester Computer Science student at **COMS
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
+
+### 🏢 Software / IT Intern — Pakistan Aeronautical Complex (PAC), Kamra
+**July – August 2025**
+
+> PAC Kamra is Pakistan's premier national-level aircraft manufacturing and aerospace engineering facility.
+
+- Worked within the technology division of a high-security, industrial-scale aerospace facility
+- Gained exposure to enterprise IT infrastructure, professional systems, and structured team workflows
+- Developed understanding of workplace standards, security protocols, and professional collaboration
+
+---
+
+## 🚀 Projects
 
 ### 📱 Smart Campus Canteen App *(In Progress)*
-> A mobile app to streamline food ordering at university canteens
+> Full-stack mobile app to streamline food ordering at university canteens
 
-- **Tech:** React Native · Node.js · MongoDB · Express.js
-- **Features:** Browse menu, place orders, real-time order tracking, student auth
-- **Status:** 🟡 Active Development
+**Tech:** React Native · Node.js · MongoDB · Express.js  
+**Features:** Menu browsing · Order placement · Student auth · Real-time tracking  
+**Status:** 🟡 Active Development
 
 ---
 
 ### 🗄️ Library Management System
-> Full relational database for university library operations
+> Complete relational database with web dashboard for university library operations
 
-- **Tech:** MySQL 8 · Vanilla HTML/CSS/JS
-- **Features:** 16-table normalized schema · 22 SQL queries · Web dashboard
-- **Highlights:** 3NF normalization · Correlated subqueries · Inventory tracking
-- **[View Project →](./library-management-system)**
+**Tech:** MySQL 8 · HTML · CSS · JavaScript  
+**Highlights:**
+- 16-table 3NF normalized schema covering books, members, loans, fines, inventory & requests
+- 22 SQL queries — JOINs, GROUP BY, correlated subqueries, DATEDIFF date arithmetic
+- Self-contained single-page dashboard, no framework needed
+
+**[View Repository →](https://github.com/mustabshiranasir/library-management-system)**
+
+---
+
+### 🌐 Responsive Web Application *(2024)*
+> Front-end web app built as part of coursework
+
+**Tech:** HTML5 · CSS3 · JavaScript  
+Responsive layout using modern CSS (Flexbox/Grid) with cross-browser compatibility.
+
+---
+
+### 🐍 Python Programming Projects *(2024)*
+> Collection of Python programs covering OOP, file handling, and data structures
+
+**Tech:** Python
 
 ---
 
@@ -88,12 +123,16 @@ Hi! I'm **Mustabshira Nasir**, a 6th-semester Computer Science student at **COMS
 
 ## 📬 Let's Connect
 
-I'm actively looking for **remote internship opportunities** in software development, mobile development, or backend engineering. If you have an opportunity or just want to chat tech, feel free to reach out!
+I'm actively looking for a **6–8 week remote internship** in software development, mobile development, or backend engineering. Feel free to reach out!
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-fa23--bcs--063@cuiatk.edu.pk-1B3A6B?style=for-the-badge)](mailto:fa23-bcs-063@cuiatk.edu.pk)
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-mustabshiranasir.github.io-2E75B6?style=for-the-badge)](https://mustabshiranasir.github.io/portfolio-website)
+| | |
+|---|---|
+| 📞 Phone | +92 302 8948502 |
+| ✉️ Email | [fa23-bcs-063@cuiatk.edu.pk](mailto:fa23-bcs-063@cuiatk.edu.pk) |
+| 💼 LinkedIn | [linkedin.com/in/mustabshira](https://linkedin.com/in/mustabshira) |
+| 🌐 Portfolio | [mustabshiranasir.github.io/portfolio-website](https://mustabshiranasir.github.io/portfolio-website) |
 
 </div>
 
@@ -102,6 +141,6 @@ I'm actively looking for **remote internship opportunities** in software develop
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:1B3A6B&height=100&section=footer" width="100%"/>
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+*"First, solve the problem. Then, write the code." — John Johnson*
 
 </div>
