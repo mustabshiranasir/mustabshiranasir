@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,100:2E75B6&height=200&section=header&text=Mustabshira%20Nasir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-2E75B6?style=for-the-badge)](https://mustabshiratech.github.io/portfolio-website)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-2E75B6?style=for-the-badge)](https://mustabshiranasir.github.io/portfolio-website)
 [![Email](https://img.shields.io/badge/📧_Email-fa23--bcs--063@cuiatk.edu.pk-1B3A6B?style=for-the-badge)](mailto:fa23-bcs-063@cuiatk.edu.pk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Open to Work](https://img.shields.io/badge/🎯_Open_to-Remote_Internships-22c55e?style=for-the-badge)](mailto:fa23-bcs-063@cuiatk.edu.pk)
